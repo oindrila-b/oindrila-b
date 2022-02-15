@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oindrila-b&show_icons=true&theme=tokyonight)
+
+------------------------- Oindrila Banerjee
+
+Langugaes I work on----------------------
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oindrila-b&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
