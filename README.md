@@ -79,7 +79,7 @@ Here are some ideas to get you started:
   </a>
   <a href="https://medium.com/@oindrila-b">
     <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
-     <a href="https://medium.com/@oindrila-b">
+     <a href="mailto:banerjee.oindrila.ob@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
 </div>
