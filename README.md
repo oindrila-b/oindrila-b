@@ -65,8 +65,9 @@ Here are some ideas to get you started:
 </div>
 
 
-<center>
 <h2>Connect with me through 🔗</h2>
+<center>
+
 <div id="badges">
   <a href="https://www.linkedin.com/in/oindrila-b/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
