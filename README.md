@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Oindrila Banerjee banner image](./OINDRILA%20BANERJEE.png)
+![Oindrila Banerjee banner image](./logos/OINDRILA%20BANERJEE.png)
 
 
 <h2> Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h2>
@@ -38,6 +38,9 @@ Here are some ideas to get you started:
     </a> 
     <a href="https://github.com/oindrila-b/DataStructureAndAlgorithms">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=oindrila-b&repo=DataStructureAndAlgorithms" alt="GitHub Stats" />
+    </a>
+      <a href="https://github.com/oindrila-b/homebody">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=oindrila-b&repo=homebody" alt="GitHub Stats" />
     </a>
   </p>
 </div>
@@ -67,7 +70,6 @@ Here are some ideas to get you started:
 
 <h2>Connect with me through 🔗</h2>
 <center>
-
 <div id="badges">
   <a href="https://www.linkedin.com/in/oindrila-b/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
